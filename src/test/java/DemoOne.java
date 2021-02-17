@@ -13,7 +13,6 @@ public class DemoOne {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         driver.get("http://omayo.blogspot.com/");
         driver.findElement(By.name("q")).sendKeys("QAFox.com");;
         driver.findElement(By.cssSelector("input[value='Search']")).click();

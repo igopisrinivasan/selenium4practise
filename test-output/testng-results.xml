@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="26838" started-at="2021-02-19T00:58:23 IST" finished-at="2021-02-19T00:58:50 IST">
+    <groups>
+    </groups>
+    <test name="selenium4practise" duration-ms="26838" started-at="2021-02-19T00:58:23 IST" finished-at="2021-02-19T00:58:50 IST">
+      <class name="DemoOne">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DemoOne@3c0ecd4b]" name="setUp" is-config="true" duration-ms="6096" started-at="2021-02-19T00:58:23 IST" finished-at="2021-02-19T00:58:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="location()[pri:0, instance:DemoOne@3c0ecd4b]" name="location" duration-ms="3568" started-at="2021-02-19T00:58:29 IST" finished-at="2021-02-19T00:58:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- location -->
+        <test-method status="PASS" signature="openNewTab()[pri:0, instance:DemoOne@3c0ecd4b]" name="openNewTab" duration-ms="1661" started-at="2021-02-19T00:58:33 IST" finished-at="2021-02-19T00:58:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewTab -->
+        <test-method status="PASS" signature="openNewWindow()[pri:0, instance:DemoOne@3c0ecd4b]" name="openNewWindow" duration-ms="1604" started-at="2021-02-19T00:58:35 IST" finished-at="2021-02-19T00:58:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewWindow -->
+        <test-method status="PASS" signature="sampleTC()[pri:0, instance:DemoOne@3c0ecd4b]" name="sampleTC" duration-ms="2896" started-at="2021-02-19T00:58:36 IST" finished-at="2021-02-19T00:58:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTC -->
+        <test-method status="PASS" signature="screenshotTest()[pri:0, instance:DemoOne@3c0ecd4b]" name="screenshotTest" duration-ms="1139" started-at="2021-02-19T00:58:39 IST" finished-at="2021-02-19T00:58:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotTest -->
+        <test-method status="PASS" signature="test()[pri:0, instance:DemoOne@3c0ecd4b]" name="test" duration-ms="9855" started-at="2021-02-19T00:58:40 IST" finished-at="2021-02-19T00:58:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DemoOne@3c0ecd4b]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-02-19T00:58:50 IST" finished-at="2021-02-19T00:58:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DemoOne -->
+    </test> <!-- selenium4practise -->
+  </suite> <!-- Default Suite -->
+</testng-results>
